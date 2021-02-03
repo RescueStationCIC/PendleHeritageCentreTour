@@ -108,6 +108,18 @@ panorama_6D772622_62B1_B2FB_41C4_E21AA42950F4.label = 71
 panorama_6FB3406E_62B1_EF4B_41D5_8B18E964F8ED.label = 74
 panorama_789BF519_63B0_56C9_41C7_8320839490DC.label = 69
 
+## Popup
+
+### Body
+htmlText_27990442_673D_8FCF_41D1_962D199AF357.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">We have deliberately left the walls exposed and the space open from the cellar to the roof, show how the building has altered over 500 years.</SPAN></DIV></BODY></HTML></div>
+htmlText_2AC3C834_68DC_874B_41C8_8C63FB3B99E4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">If you had been here in 1590, you would have been standing outside the original house, having just come through the outer doorway - the earliest surviving part of the house, where John Bannister lived in 1590.</SPAN></DIV></BODY></HTML></div>
+htmlText_2B04E3D7_68D7_88F5_41A8_B780AF545095.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This datestone is above the porch, built in the 1700s.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Is it a Victorian fake?</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_2B03FFC7_68DC_98D5_41C3_40F15FBCF926.title = No! This is not a building site
+window_2BCAD76F_6975_89D5_4189_19482B364A50.title = Henry Bannister, 1661?
+window_2D8034FC_697D_88BB_41D2_480986DB2CF3.title = Inside Out, Outside In
+
 ## Action
 
 ### URL
