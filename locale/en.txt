@@ -9,6 +9,14 @@ tour.name = PendleHeritageCentreTour
 
 ## Skin
 
+### Tab Panel
+TabPanelPage_7028982B_673C_875D_41CB_B998ED347130.label = First Floor
+TabPanelPage_7028A82B_673C_875D_41C4_B5F7BC179277.label = Map
+TabPanelPage_7028B82B_673C_875D_41CA_C965A5632A79.label = Ground Floor
+TabPanelPage_76C56577_6754_89B5_41C2_C8E0535F7CBD.label = Ground Floor
+TabPanelPage_76C57577_6754_89B5_41C7_4CB70B38F2C1.label = Map
+TabPanelPage_76CAA578_6754_89BB_41D0_28C117960C35.label = First Floor
+
 ### Tooltip
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
@@ -16,6 +24,9 @@ IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
 ## Media
 
 ### Title
+map_6A3E9606_676D_8B57_41C5_13698A3A56E8.label = map
+map_7E1F39A5_67FC_B955_41D7_5AD31F8A3167.label = image--000
+map_7EB38ABA_67FC_F8BF_41D6_ECF5ECAA3830.label = image--001
 panorama_5521F48E_5CFB_4E3F_41D6_CC62E2406BBC.label = 48
 panorama_5521FB1B_5CFB_5A25_41B0_73CBC8630A02.label = 47
 panorama_55223790_5CF8_CA23_41D0_7C5DCADEF549.label = 50
