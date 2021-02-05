@@ -1,6 +1,5 @@
 {
  "name": "PendleHeritageCentreTour",
- "background_color": "#FFFFFF",
  "icons": [
   {
    "src": "misc/icon16.png",
@@ -38,7 +37,8 @@
    "sizes": "180x180"
   }
  ],
+ "background_color": "#FFFFFF",
  "display": "fullscreen",
- "start_url": "index.htm?installed=true",
- "theme_color": "#FFFFFF"
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true"
 }
