@@ -28,7 +28,7 @@ map_4A2F9488_7C50_A6DC_41C2_CF98B6C3A806.label = image--000
 map_4A746094_7C50_BEF4_41D3_FBD4167FD101.label = image--001
 map_6A3E9606_676D_8B57_41C5_13698A3A56E8.label = map
 panorama_5521F48E_5CFB_4E3F_41D6_CC62E2406BBC.label = 48
-panorama_5521FB1B_5CFB_5A25_41B0_73CBC8630A02.label = 47
+panorama_5521FB1B_5CFB_5A25_41B0_73CBC8630A02.label = Windows
 panorama_55223790_5CF8_CA23_41D0_7C5DCADEF549.label = 50
 panorama_55224B9D_5CF8_FA5D_41D0_C8FF2F8CD288.label = 52
 panorama_55225571_5CF8_CEE5_41C7_3C125F09F61D.label = 53
@@ -42,30 +42,28 @@ panorama_5522E687_5CF9_4A2D_41D6_E254A37FA435.label = 58
 panorama_5523546A_5CF9_4EE7_41D2_1FB64772B6EC.label = 61
 panorama_55236E5D_5CF9_3ADD_41CA_3B77963A0C5A.label = 62
 panorama_5523706C_5CF9_46E3_41C4_2D4F8BFE8929.label = 59
-panorama_5523B865_5CF9_C6ED_41C6_0FFADA31D394.label = 63
+panorama_5523B865_5CF9_C6ED_41C6_0FFADA31D394.label = Cruck barn stalls
 panorama_552B567C_5CF8_CADC_41B7_6E0073F5AB61.label = 3
 panorama_552B901C_5CF8_C623_41A3_9B897408493B.label = 4
 panorama_552B9382_5CF8_CA27_41D7_148A090524C5.label = 5
 panorama_552BA446_5CF9_4E2F_41D5_77E2AF40E48B.label = 8
-panorama_552C4A74_5CF9_5AE3_41C1_F1971956172B.label = 7
 panorama_552C7E2E_5CF9_7A7F_41C2_32E7A411D6B8.label = 9
 panorama_552CF2AE_5CF8_CA7C_41BF_E1D1FF4AFCBB.label = 23
 panorama_552D109B_5CF9_4625_41C8_34B3AD91A3DB.label = 17
 panorama_552D24B1_5CF9_4E65_41C0_DF95094EE06B.label = 22
-panorama_552D2D55_5CF9_DE2D_41D5_C567DAA968E7.label = 15
-panorama_552D3436_5CF9_4E6F_41D4_7BE86C65346F.label = 19
+panorama_552D2D55_5CF9_DE2D_41D5_C567DAA968E7.label = Hearth
+panorama_552D3436_5CF9_4E6F_41D4_7BE86C65346F.label = Abbeys Churches Chapels
 panorama_552D625C_5CF9_4A23_41C5_5D678EAB40A4.label = 11
 panorama_552D6865_5CF9_46ED_41D4_BE802FD1D14A.label = 10
-panorama_552D6E6F_5CF9_7AFD_41CA_D7AACF59670E.label = 20
+panorama_552D6E6F_5CF9_7AFD_41CA_D7AACF59670E.label = Abbeys
 panorama_552D7A6F_5CF9_5AFD_41BF_AD939D4184F7.label = 18
-panorama_552DB05D_5CF9_C6DD_4186_6DB35B23ED21.label = 13
-panorama_552DC6AA_5CF9_CA67_41C2_A1EC5902556F.label = 12
+panorama_552DB05D_5CF9_C6DD_4186_6DB35B23ED21.label = Hearth and home
 panorama_552DD709_5CF9_CA25_41BD_0F2EA7698F3E.label = 16
 panorama_552DE3B2_5CF9_CA67_41D2_D32CB4BCA2F1.label = 14
 panorama_552E01BB_5CFB_4665_41BA_CD4EEECACC0B.label = 46
-panorama_552E3AFF_5CFB_3BDD_41BA_0BAEE97307FC.label = 42
+panorama_552E3AFF_5CFB_3BDD_41BA_0BAEE97307FC.label = Atrium
 panorama_552E74D2_5CFB_4E24_41B7_729396989BCC.label = 43
-panorama_552E8002_5CFB_C627_4160_09CDDE9D709C.label = 36
+panorama_552E8002_5CFB_C627_4160_09CDDE9D709C.label = Meet the Bannisters
 panorama_552EB2E6_5CFB_CBEF_41C9_765613F0A0C3.label = 38
 panorama_552EBCFA_5CF7_3FE7_41C8_037B68091C9B.label = 2
 panorama_552EE9BF_5CF9_465D_4184_34D238A1B578.label = 21
@@ -75,38 +73,41 @@ panorama_552F26FA_5CFB_4BE7_41A3_79EF5F071B20.label = 30
 panorama_552F2F46_5CF8_FA2F_41AE_EFF2CF869C51.label = 26
 panorama_552F4D9C_5CFB_3E23_41CB_DD37F0D57FC0.label = 29
 panorama_552F5418_5CF8_CE23_41C5_DB0AD2DACD21.label = 28
-panorama_552F55E4_5CF8_C9E3_41D6_68BAECD5A2A5.label = 25
+panorama_552F55E4_5CF8_C9E3_41D6_68BAECD5A2A5.label = Religion and Dissent
 panorama_552F78E6_5CF8_C7EF_41D5_1F9F8B7954CA.label = 27
 panorama_552F8680_5CFB_4A23_41AE_4231CB6175F8.label = 35
-panorama_552FAD02_5CFB_5E27_41D2_2F69DC02EE8E.label = 34
+panorama_552FAD02_5CFB_5E27_41D2_2F69DC02EE8E.label = Chimneys
 panorama_552FB380_5CFB_4A24_41CD_55D5A67FC362.label = 33
 panorama_552FE9ED_5CFB_79FD_41B1_0CF2E77539C8.label = 32
-panorama_552FF06B_5CFB_46E5_418B_FDF63FAB8EA9.label = 31
+panorama_552FF06B_5CFB_46E5_418B_FDF63FAB8EA9.label = Pendle Witches
 panorama_57C031BD_5CF7_465D_41BA_2C63E26391BE.label = 1
-panorama_68A83A6C_6290_734F_41D1_0269FD8E0FB3.label = 65
-panorama_68A85384_6290_51BF_41C0_1E5F1EC52EDC.label = 66
+panorama_68A83A6C_6290_734F_41D1_0269FD8E0FB3.label = Garden rear
+panorama_68A85384_6290_51BF_41C0_1E5F1EC52EDC.label = Garden
 panorama_68A8908B_6290_EFC9_4192_62A71052FC3F.label = 88
-panorama_68A897DC_6290_B14F_41D1_36651AFBD480.label = 68
-panorama_68A8AE30_6290_52D7_41D6_463B74526A35.label = 67
+panorama_68A897DC_6290_B14F_41D1_36651AFBD480.label = Garden exit
+panorama_68A8AE30_6290_52D7_41D6_463B74526A35.label = Garden central
 panorama_68A8BC23_6290_D6F9_41BF_F2A9BD4305CA.label = 89
-panorama_68A8BEF3_6290_5359_41D5_910B213192B5.label = 73
+panorama_68A8BEF3_6290_5359_41D5_910B213192B5.label = Park Hill
 panorama_68A8F3F4_6290_515F_41A6_DAB89408AD0A.label = 72
-panorama_68AB29E2_6293_B17B_41D1_E0A3964102E1.label = 70
-panorama_68AB3C7F_6293_B749_41CB_C06180E624F9.label = 79
+panorama_68AB29E2_6293_B17B_41D1_E0A3964102E1.label = Exit
+panorama_68AB3C7F_6293_B749_41CB_C06180E624F9.label = Cruck barn Front
 panorama_68AB7447_6290_B6B9_41D3_525E09DCAEB5.label = 84
 panorama_68AB7516_6290_F6DB_41D0_C3BEA1378D24.label = 87
 panorama_68AB8836_6290_5EDB_417B_592DA8563C50.label = 80
 panorama_68ABAAC3_6293_F3B9_41D1_123C52F5B0B8.label = 76
 panorama_68ABB582_6293_D1BB_41D8_8C13F2B456AA.label = 77
 panorama_68ABBE87_6290_73B9_41CF_94FAE0B59140.label = 82
-panorama_68ABD0F6_6293_AF5B_41D7_39B14DA652E1.label = 78
+panorama_68ABD0F6_6293_AF5B_41D7_39B14DA652E1.label = Cruck barn gate
 panorama_68ABD9CE_6290_514B_41A8_45AD9204E910.label = 83
 panorama_68ABE365_6290_7179_41CB_5C2186FA195A.label = 81
 panorama_68ABFF90_6293_D1D7_41A4_E5A185DD97A5.label = 75
-panorama_68AFD8D1_6290_7F59_41D7_3C7D94C5A85D.label = 64
-panorama_6D772622_62B1_B2FB_41C4_E21AA42950F4.label = 71
+panorama_68AFD8D1_6290_7F59_41D7_3C7D94C5A85D.label = Graden Entrance
+panorama_6D772622_62B1_B2FB_41C4_E21AA42950F4.label = The Drive
 panorama_6FB3406E_62B1_EF4B_41D5_8B18E964F8ED.label = 74
-panorama_789BF519_63B0_56C9_41C7_8320839490DC.label = 69
+panorama_789BF519_63B0_56C9_41C7_8320839490DC.label = Entrance
+panorama_C339A9EB_D070_9443_41E5_3C69451B9BA5.label = Landing
+panorama_CB4AE43B_D051_93C3_41E7_B7823263C223.label = Exhibition
+panorama_F651FF30_D031_6DDD_41B1_AF06354FA93E.label = 12
 photo_4F909A4C_7FF0_A254_41D8_90A59929C8A0.label = IMG_0001
 photo_6AAE7688_72B7_85C7_41D5_5EFFB856C492.label = IMG_1891b
 photo_6B092EAA_72B6_85DB_41D2_245398D6FFDC.label = IMG_1891a
@@ -114,9 +115,6 @@ photo_6B092EAA_72B6_85DB_41D2_245398D6FFDC.label = IMG_1891a
 ## Popup
 
 ### Body
-htmlText_27990442_673D_8FCF_41D1_962D199AF357.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">We have deliberately left the walls exposed and the space open from the cellar to the roof, show how the building has altered over 500 years.</SPAN></DIV></BODY></HTML></div>
-htmlText_2AC3C834_68DC_874B_41C8_8C63FB3B99E4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">If you had been here in 1590, you would have been standing outside the original house, having just come through the outer doorway - the earliest surviving part of the house, where John Bannister lived in 1590.</SPAN></DIV></BODY></HTML></div>
-htmlText_2B04E3D7_68D7_88F5_41A8_B780AF545095.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This datestone is above the porch, built in the 1700s.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Is it a Victorian fake?</SPAN></DIV></BODY></HTML></div>
 htmlText_520AF1D4_7C50_FE74_41D3_7B3699E76DBC.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Welcome to the Pendle Heritage Centre, at Park Hill.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Back in 1977, this was the first restoration completed with Heritage Trust for the North West. The trust seeks to find new appropriate uses for historic buildings at risk and encourages good design and craftsmanship. Many of its restorations, like Park Hill, are open to the public forming a network of historic places to visit. </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">We've taken a 360 camera around, and built this tour, for you to come in and take a look around the exhibitions - don't forget to visit the gardens and the Cruck barn, too!</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Find the arrows, and tap on them to move around. Tap the other icons as you find them for more information.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
 htmlText_554C76D8_7CF1_A27C_41AD_1DD6A4E655DC.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>George I (1714 - 1727)</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>George II (1727 - 1760)</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>George III (1760 - 1820)</SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;"><B>1752</B></SPAN><SPAN STYLE="font-size:15px;">: John IV's grandson, John V, sold the remaining portion of Park Hill and the estate to a man called Yorker. The Bannisters departed from Park Hill after 300 years' residence.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;"><B>1813</B></SPAN><SPAN STYLE="font-size:15px;">: Yorker sold 'The house, lands, pews and burial where John Henry Bannister formerly dwelt' to Gamaliel Sutcliffe of Stoneshey Gate, Heptonstall. Thus the direct Bannister link with the house and estate at Park Hill was finally broken.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B/></SPAN></DIV></BODY></HTML></div>
 htmlText_573A2EAE_7CD0_E2D4_41AD_37342E65F87F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Lower Park Hill, 1923</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">John and Agnes Pickover and their children outside Lower Park Hill.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">In the centre is Thelma Pickover, aged 2, whose birth certificate is reproduced here.</SPAN></DIV></BODY></HTML></div>
@@ -139,9 +137,6 @@ htmlText_7D200434_6CDB_258C_41D3_715EF0D8EE2B.html = <div style="text-align:left
 htmlText_7EDA686A_6DF2_45F8_41D5_CCD5827994B5.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Map of Lancashire, according to the Doomsday Survey.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Drawn and engraved by J &amp; C Walker.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Printed by Fisher &amp; Son of London, 1831.</SPAN></DIV></BODY></HTML></div>
 
 ### Title
-window_2B03FFC7_68DC_98D5_41C3_40F15FBCF926.title = No! This is not a building site
-window_2BCAD76F_6975_89D5_4189_19482B364A50.title = Henry Bannister, 1661?
-window_2D8034FC_697D_88BB_41D2_480986DB2CF3.title = Inside Out, Outside In
 window_4B52AC5F_7FFF_E674_41D2_6A6C9E5F83ED.title = Welcome!
 window_5063887E_7C70_AE34_41D9_B40292CA6129.title = Stuarts
 window_554C26D9_7CF1_A27C_41CA_0F3FB5BFF906.title = House of Hanover
